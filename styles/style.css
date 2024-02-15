@@ -246,15 +246,15 @@ blockquote {
 }
 
 .card_type_film {
-  background-image: url("images/film.png");
+  background-image: url("../images/film.png");
 }
 
 .card_type_book {
-  background-image: url("images/book.png");
+  background-image: url("../images/book.png");
 }
 
 .card_type_picture {
-  background-image: url("images/picture.png");
+  background-image: url("../images/picture.png");
 }
 
 .lots__look-more-link {
