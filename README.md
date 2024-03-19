@@ -17,4 +17,3 @@
 не опускать руки ни при каких обстоятельствах.
 
 <a href="https://proggi28.github.io/Ono-tebe-nado/" target="_blank">Ссылка на проект</a>
-[Ссылка на проект](https://proggi28.github.io/Ono-tebe-nado/ "Ссылка на проект")
